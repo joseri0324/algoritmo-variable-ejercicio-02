@@ -12,7 +12,12 @@ let promedio = (p1+p2+p3)/3
       
     //mostrar resultado//
 
-    
-    console.log("el promedio es", promedio)
+
+    console.log("periodo 1", p1,)
+    console.log("periodo 2", p2,)
+    console.log("periodo 3", p3,)
+
+
+    console.log("El promedio es", promedio)
     
     
